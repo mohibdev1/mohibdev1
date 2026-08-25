@@ -52,7 +52,9 @@ I'm a Computer Science student passionate about web development and building mod
 ## 📫 Connect With Me
 
 - 💻 GitHub: [mohibdev1](https://github.com/mohibdev1)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohibdev1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
