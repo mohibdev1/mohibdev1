@@ -33,6 +33,22 @@ I'm a Computer Science student passionate about web development and building mod
 - 🔐 Authentication System
 - 🛒 React + Ant Design Project
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohibdev1&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohibdev1&theme=tokyonight&hide_border=true" />
+</p> 
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohibdev1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📫 Connect With Me
 
 - 💻 GitHub: [mohibdev1](https://github.com/mohibdev1)
