@@ -20,7 +20,11 @@ I'm a Computer Science student passionate about web development and building mod
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,firebase,git,github,vscode" />
 </p>
+<h3 align="center">⚡ Technologies I Work With</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,firebase,git,github,vscode" />
+</p>
 ## 📚 Currently Learning
 
 - React JS
