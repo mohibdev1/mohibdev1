@@ -36,7 +36,7 @@ I'm a Computer Science student passionate about web development and building mod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohibdev1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohibdev1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ I'm a Computer Science student passionate about web development and building mod
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohibdev1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohibdev1&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📫 Connect With Me
