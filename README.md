@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Habib Ullah
 
-<!--
-**mohibdev1/mohibdev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | CS Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about web development and building modern, responsive websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Learning Frontend Development
+- ⚛️ Currently learning React JS
+- 🌱 Improving my JavaScript skills
+- 🚀 Building projects to improve my development skills
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,firebase,git,github,vscode" />
+</p>
+
+## 📚 Currently Learning
+
+- React JS
+- Advanced JavaScript
+- Responsive Web Design
+- Firebase
+- Git & GitHub
+
+## 🚀 Projects
+
+- 🎓 React Education Website
+- ✅ Firebase Todo App
+- 🔐 Authentication System
+- 🛒 React + Ant Design Project
+
+## 📫 Connect With Me
+
+- 💻 GitHub: [mohibdev1](https://github.com/mohibdev1)
+
+---
+
+⭐ Thanks for visiting my profile!
