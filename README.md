@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Habib%20Ullah&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 # 👋 Hi, I'm Mohib Ullah
 
 ### 💻 Frontend Developer | CS Student
