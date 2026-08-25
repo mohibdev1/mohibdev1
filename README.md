@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Habib Ullah
+# 👋 Hi, I'm Mohib Ullah
 
 ### 💻 Frontend Developer | CS Student
 
