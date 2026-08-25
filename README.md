@@ -16,9 +16,11 @@ I'm a Computer Science student passionate about web development and building mod
 - 🚀 Building projects to improve my development skills
 
 ## 🛠️ Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,firebase,git,github,vscode" />
 </p>
+
 ## 📚 Currently Learning
 
 - React JS
