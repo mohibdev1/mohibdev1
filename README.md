@@ -31,10 +31,10 @@ I'm a Computer Science student passionate about web development and building mod
 
 ## 🚀 Projects
 
-- 🎓 React Education Website
-- ✅ Firebase Todo App
-- 🔐 Authentication System
-- 🛒 React + Ant Design Project
+- 🎓 [**React Education Website**](https://github.com/mohibdev1/react-assignment-04)
+- ⚛️ [**React Assignment 03**](https://github.com/mohibdev1/react-assignment-03)
+- 🟨 [**JavaScript Assignment 05**](#)
+- 🛒 [**React + Ant Design Project**](#)
 
 ## 📊 GitHub Stats
 
