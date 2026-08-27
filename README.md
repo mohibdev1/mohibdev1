@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Mohib%20Ullah&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habib%20Ullah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
-# 👋 Hi, I'm Mohib Ullah
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Currently+Learning+React+JS;Improving+JavaScript+Skills;Future+Frontend+Developer;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ### 💻 Frontend Developer | CS Student
 
