@@ -35,6 +35,12 @@ I'm a Computer Science student passionate about web development and building mod
 - ⚛️ [**React Assignment 03**](https://github.com/mohibdev1/react-assignment-03)
 - 🟨 [**JavaScript Assignment 05**](https://github.com/mohibdev1/Javascript-Assignment-5)
 - 🛒 [**React + Ant Design Project**](https://github.com/mohibdev1/react-assignment-02)
+ 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohibdev1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ## 📊 GitHub Stats
 
