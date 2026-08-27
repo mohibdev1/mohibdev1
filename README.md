@@ -79,20 +79,6 @@ Responsive React project using Ant Design components.
 - 🌱 Keep learning new technologies
 
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/mohibdev1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>✨ Learn • Build • Grow ✨</b>
-</p>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -102,5 +88,21 @@ Responsive React project using Ant Design components.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohibdev1&theme=tokyonight&hide_border=true" />
 </p> 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mohibdev1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohibdev1&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
+</p>
+<p align="center">
+  <b>✨ Learn • Build • Grow ✨</b>
+</p>
+
 
 
