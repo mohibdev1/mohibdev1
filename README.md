@@ -33,8 +33,8 @@ I'm a Computer Science student passionate about web development and building mod
 
 - 🎓 [**React Education Website**](https://github.com/mohibdev1/react-assignment-04)
 - ⚛️ [**React Assignment 03**](https://github.com/mohibdev1/react-assignment-03)
-- 🟨 [**JavaScript Assignment 05**](#)
-- 🛒 [**React + Ant Design Project**](#)
+- 🟨 [**JavaScript Assignment 05**](https://github.com/mohibdev1/Javascript-Assignment-5)
+- 🛒 [**React + Ant Design Project**](https://github.com/mohibdev1/react-assignment-02)
 
 ## 📊 GitHub Stats
 
