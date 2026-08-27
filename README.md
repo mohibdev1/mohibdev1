@@ -107,7 +107,7 @@ Responsive React project using Ant Design components.
 </h3>
 
 <p align="center">
-  <i>"Code is like a puzzle. Every bug solved makes you a better developer."</i>
+ <b><i>"Code is like a puzzle. Every bug solved makes you a better developer."</i><b/>
 </p>
 
 <br>
