@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Mohib%20Ullah&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=Mohib%20Ullah&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Mohib Ullah</h1>
