@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Habib%20Ullah&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Mohib%20Ullah&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Habib Ullah</h1>
+<h1 align="center">👋 Hi, I'm Mohib Ullah</h1>
 <p align="center">
   <b>Learning React JS • Building Projects • Growing Every Day 🚀</b>
 </p>
@@ -101,8 +101,19 @@ Responsive React project using Ant Design components.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohibdev1&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
 </p>
+ 
+<h3 align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</h3>
+
 <p align="center">
-  <b>✨ Learn • Build • Grow ✨</b>
+  <i>"Code is like a puzzle. Every bug solved makes you a better developer."</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer" width="100%" />
 </p>
 
 
