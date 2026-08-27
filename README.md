@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Habib%20Ullah&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
+<h2 align="center">👋 Hi, I'm Habib Ullah</h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=React+JS+Learner+%F0%9F%9A%80;Frontend+Development+Enthusiast+%F0%9F%92%BB;JavaScript+Developer+in+Progress+%E2%9A%A1;Building+Modern+Web+Experiences+%F0%9F%8C%90;Future+Frontend+Developer+%F0%9F%94%A5" />
 </p>
