@@ -7,7 +7,7 @@
   <b>Learning React JS • Building Projects • Growing Every Day 🚀</b>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=React+JS+Learner+%F0%9F%9A%80;Frontend+Development+Enthusiast+%F0%9F%92%BB;JavaScript+Developer+in+Progress+%E2%9A%A1;Building+Modern+Web+Experiences+%F0%9F%8C%90;Future+Frontend+Developer+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=React+JS+Learner+%F0%9F%9A%80;Frontend+Development+Enthusiast+%F0%9F%92%BB;Frontend+Developer+in+Progress+%E2%9A%A1;Building+Modern+Web+Experiences+%F0%9F%8C%90;Future+Full-Stack+Developer+%F0%9F%94%A5" />
 </p>
 
 ---
