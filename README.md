@@ -21,7 +21,7 @@ I'm passionate about web development and currently focused on learning React JS 
 - 🎨 Building responsive websites
 - 🔥 Working with Firebase
 - 🚀 Creating projects to sharpen my skills
-- 🎯 Goal: Become a professional Frontend Developer
+- 🎯 Goal: Become a professional Full-Stack Developer
 
 ---
 
